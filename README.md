@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nancy
-- 👀 I’m interested in Full Stack Web Development and Data Science.
-- 🌱 I’m currently learning backend development in Node.js, Express.js. Also learning Data Structures and Algorithms.
-- 👩‍💻 Skilled in Asp.Net Core, DevOps, MySQL, Azure Cloud Technologies, Azure Data Factory, Azure Functions and Azure Api Management. 
+- 👀 I’m interested in Full Stack Web Development and Machine Leanring.
+- 🌱 I’m currently learning Machine Learning in Python. Also learning Data Structures and Algorithms.
+- 👩‍💻 Skilled in Node.js, Express, Asp.Net Core, DevOps, MySQL, Azure Cloud Technologies, Azure Data Factory, Azure Functions and Azure Api Management. 
 - 💞️ I’m looking to collaborate on Open Source Projects.
 
 <!---
