@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nancy
-- 👀 I’m interested in Full Stack Web Development and Machine Leanring.
-- 🌱 I’m currently learning Machine Learning in Python. Also learning Data Structures and Algorithms.
-- 👩‍💻 Skilled in Node.js, Express, Asp.Net Core, DevOps, MySQL, Azure Cloud Technologies, Azure Data Factory, Azure Functions and Azure Api Management. 
+- 👋 Hi, I’m Nancy Parekh
+- 👀 I’m interested in Full Stack Web Development, AI and Machine Learning.
+- 🌱 I’m currently learning Prompt Engineering and AI agents. Strong knowlegde in Data Structures and Algorithms.
+- 👩‍💻 Skilled in Python, PyTorch, Node.js, Express, Asp.Net Core, DevOps, MySQL, Azure Cloud Technologies, Azure Data Factory, Azure Functions and Azure Api Management. 
 - 💞️ I’m looking to collaborate on Open Source Projects.
 
 <!---
